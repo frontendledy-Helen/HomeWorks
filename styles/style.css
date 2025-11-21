@@ -31,8 +31,6 @@ body {
     grid-template-areas: "header header" "left right";
     align-items: center;
     justify-content: center;
-
-
 }
 
 .header {
@@ -46,12 +44,7 @@ body {
 
 .left {
     padding: 112px 0 191px 17px;
-
     box-sizing: border-box;
-}
-
-.content {
-
 }
 
 h1 {
@@ -67,7 +60,6 @@ p {
     line-height: 27px;
     color: #636363;
     margin-bottom: 42px;
-
 }
 
 form {
@@ -86,7 +78,6 @@ label {
     line-height: 27px;
     color: #C6C6C4;
     border-bottom: 1px solid #C6C6C4;
-
 }
 
 input {
@@ -112,7 +103,6 @@ input {
     flex-direction: column;
     justify-content: center;
     text-align: center;
-
 }
 
 button {
