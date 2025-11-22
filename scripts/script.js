@@ -127,6 +127,6 @@ window.onload = function () {
     popupClose.addEventListener('click', switchToLoginMode);
     transitionToAnAccount.addEventListener('click', switchToLoginMode);
 
-    console.log("изменение кода js")
+    console.log("сообщение основного разработчика")
 };
 
